@@ -8,6 +8,7 @@ public class GitTest {
         System.out.println("hello git3");
         System.out.println("master test");
         System.out.println("hot-fix");
-        System.out.println("远程库");
+        System.out.println("push 本地库到远程库");
+        System.out.println("pull 远程库到本地库");
     }
 }
